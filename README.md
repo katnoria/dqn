@@ -35,8 +35,8 @@ The task is episodic, and is considered solved when our agent is able to get an 
 
 The repository is organised as following:
 - **`env`** - stores all the unity ml environments
-- **`notebooks`** - stores the notebooks for environment exploration, training agents and playing game
-- **`save_models`** - stores saved network weights
+- **`notebooks`** - stores the notebooks for environment exploration, training agents and hyperparameter tuning.
+- **`saved_models`** - stores saved network weights
 - **`src`** - includes the code for agent and neural networks. agents.py contains all the agents, model.py contains neural network implementation and player.py allows us to run the trained model.
 
 Use notebooks/Trainer.ipynb to see how the agent was trained.
