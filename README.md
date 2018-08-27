@@ -39,9 +39,9 @@ The repository is organised as following:
 - **`saved_models`** - stores saved network weights
 - **`src`** - includes the code for agent and neural networks. agents.py contains all the agents, model.py contains neural network implementation and player.py allows us to run the trained model.
 
-Use notebooks/Trainer.ipynb to see how the agent was trained.
+:point_right: Use notebooks/Trainer.ipynb to see how the agent was trained.
 
-The file **Report.ipynb** includes the information of how the agent was trained, its performance against a player that chooses actions randomly and future ideas. 
+:point_right: **Report.ipynb** includes the information of how the agent was trained, its performance against a player that chooses actions randomly and future ideas. 
 
 *Report.pdf was generated from the Report notebook. It is best to view Report.ipynb and use pdf only in cases where Reports notebook cannot be opened/rendered*
 
