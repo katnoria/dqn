@@ -46,3 +46,13 @@ The repository is organised as following:
 :warning: *Report.pdf was generated from the Report notebook. It is best to view Report.ipynb and use pdf only in cases where Reports notebook cannot be opened/rendered*
 
 **Note:** *The training and testing was performed on local Ubuntu 16.04.*
+
+### TODO
+
+:white_check_mark: DQN Agent
+
+:white_medium_square: Double DQN Agent
+
+:white_medium_square: Agent with Prioritized Experience Replay
+
+:white_medium_square: Dueling DQN Agent
