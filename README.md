@@ -43,6 +43,6 @@ The repository is organised as following:
 
 :point_right: **Report.ipynb** includes the information of how the agent was trained, its performance against a player that chooses actions randomly and future ideas. 
 
-*Report.pdf was generated from the Report notebook. It is best to view Report.ipynb and use pdf only in cases where Reports notebook cannot be opened/rendered*
+:warning: *Report.pdf was generated from the Report notebook. It is best to view Report.ipynb and use pdf only in cases where Reports notebook cannot be opened/rendered*
 
 **Note:** *The training and testing was performed on local Ubuntu 16.04.*
